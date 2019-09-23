@@ -1,0 +1,76 @@
+# Group Member: Akeem Brisco
+Nov 2, 2016
+	Yesterday :
+	Today     : 
+	Obstacles :
+	
+Nov 3, 2016
+	Yesterday :
+	Today     : 
+	Obstacles :
+
+Nov 4, 2016
+	Yesterday :
+	Today     : created a group for the assignment
+	Obstacles : 
+
+Nov 5, 2016
+	Yesterday : created a group for the assignment
+	Today     : cloned repo, started on product backlog and user stories
+	Obstacles : had troubles cloning because of http and ssh, but finished
+
+Nov 6, 2016
+	Yesterday : cloned repo and added member info
+	Today     : review assignment notes and look over lecture slides and notes
+	Obstacles :
+	
+Nov 7, 2016
+	Yesterday : review.
+	Today     : organize a group meeting and get contact information from other group members. 
+				started working of rectangle but ended stopping cause another member was already doing it.
+	Obstacles : getting a conflict when trying to push because i didn't create a new branch and another member was doing the same user story as me.
+	
+Nov 8, 2016
+	Yesterday :met group members then started the assignment.
+	Today     :create a new branch for user story 5 and work through getting it done
+	Obstacles : merging the master branch with the new branch.
+	
+Nov 9, 2016
+	Yesterday :merge branches
+	Today     :resolve all the conflicts between branches and worked on user story 5
+	Obstacles :merging all the conflicts 
+	
+Nov 10, 2016
+	Yesterday :merge
+	Today     :worked on the gui design and added picture to the jbuttons
+	Obstacles :importing the images 
+	
+Nov 11, 2016
+	Yesterday :gui desgin
+	Today     :worked on user story 11
+	Obstacles :getting all the shapes to extends the shape class
+	
+Nov 12, 2016
+	Yesterday :work on the shape class
+	Today     :work on getting Squiggle to work properly 
+	Obstacles :getting it to stop drawing after mouse release
+	
+Nov 13, 2016
+	Yesterday :start Squiggle
+	Today     :finished Squiggle and started on polyline, update master branch 
+	Obstacles :same as yesterday
+	
+Nov 14, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Nov 15, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Nov 16, 2016
+	Yesterday :
+	Today     :
+	Obstacles :

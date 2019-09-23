@@ -1,0 +1,82 @@
+# Group Member: Shelise Bryan
+Nov 2, 2016
+	Yesterday :
+	Today     : link was not available as yet
+	Obstacles :
+	
+Nov 3, 2016
+	Yesterday :
+	Today     : link was not available as yet. Read over assignment files.
+	Obstacles :
+
+Nov 4, 2016
+	Yesterday :
+	Today     : joined a group for the assignment
+	Obstacles : 
+
+Nov 5, 2016
+	Yesterday : joined a group for the assignment
+	Today     : cloned repo, started on product backlog and user stories
+	Obstacles : had troubles cloning because of spelling errors, but finished
+
+Nov 6, 2016
+	Yesterday : cloned repo and added member info
+	Today     : Worked on nothing really, went to Raptors game...they lost! Did some readings on Java Oracle 
+				related to the assignment. Checked out how Paint application runs.
+	Obstacles :
+	
+Nov 7, 2016
+	Yesterday : Readings.
+	Today     : Met up with some of the group members and decided who's working on what. Began working on rectangle;
+				created the class, added it to the model, etc. User is able to create a rectangle but can't see feedback as yet.
+				Implemented the QUIT option.
+	Obstacles : Having trouble pushing my user branch to the master/ not sure how or if i actually can. Realized my rectangle messes
+				up dragging from right to left and creates a marked point when pressed on screen
+	
+	
+Nov 8, 2016
+	Yesterday : started 
+	Today     :
+	Obstacles :
+	
+Nov 9, 2016
+	Yesterday :
+	Today     : today i added the images to the buttons and finished recatangle square not sure what's happening.
+				 on rectangle which works and linestyle and linesize
+	Obstacles : 
+	
+Nov 10, 2016
+	Yesterday :
+	Today     : worked on disabling the buttons so the user knows which mode they are in
+	Obstacles :
+	
+Nov 11, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Nov 12, 2016
+	Yesterday :
+	Today     : looked up different paint applications to for our design aspects
+	Obstacles :
+	
+Nov 13, 2016
+	Yesterday :
+	Today     : worked on changing the thickness and style of a line and altered shapes so it also takes
+				a filled or outlined shape
+	Obstacles :
+	
+Nov 14, 2016
+	Yesterday : line thickness and fil/outline
+	Today     : Worked on bugs 2.5 and 2.6, and tried fixing square which still doesnt work properly
+	Obstacles : Can't get square to work properly
+	
+Nov 15, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Nov 16, 2016
+	Yesterday :
+	Today     :
+	Obstacles :

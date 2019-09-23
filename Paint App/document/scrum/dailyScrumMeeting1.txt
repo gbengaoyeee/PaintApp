@@ -1,0 +1,41 @@
+# Fill in, commit and push each day.
+# Group Member: Oyesanya
+Nov 2, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Nov 3, 2016
+	Yesterday :
+	Today     :clone repo, started on product backlog and user stories
+	Obstacles :
+
+Nov 4, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 5, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 6, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Nov 7, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Nov 8, 2016
+	Yesterday :looked and understood the starter codes
+	Today     : worked on drawing circle on the drawing board
+	Obstacles : 
+	
+Nov 9, 2016
+	Yesterday :worked on drawing circle on the drawing board
+	Today     :fixed all bugs
+	Obstacles :
